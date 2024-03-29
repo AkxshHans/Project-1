@@ -107,6 +107,10 @@ transform: translate(0% , -50%);
     font-size: 2vw;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+#heroleft button:hover {
+    background-color: skyblue;
+    color: black;
+}
 
 #heroright {
     display: flex;
